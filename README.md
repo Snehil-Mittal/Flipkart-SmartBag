@@ -19,7 +19,7 @@
 
 ## 💻 About the project
 
-- <p style="color: red;">Basically it is a ML-based Smartbag which uses machine learning algorithm to recommend user the items based on various factors like his previous purchases, other people similar purchases, the time of purchase, similarity index between the products using the Associative learning. The Apriori Algorithm is used to provide him with the desired results. This project was made as a part of hackathon "Flipkart Grid 3.0". For ease in understanding, the 
+- <p style="color: red;">Basically it is a ML-based Smartbag which uses machine learning algorithm to recommend user the items based on various factors like his previous purchases, other people similar purchases, the time of purchase, similarity index between the products using the Associative learning. The Apriori Algorithm is used to provide him with the desired results. This project was made as a part of hackathon "Flipkart Grid 3.0".
   <p style="center">OR</p>
 
 - You can share your amazing ideas here.
